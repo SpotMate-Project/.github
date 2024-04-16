@@ -1,1 +1,1 @@
-# .github
+# SpotMate

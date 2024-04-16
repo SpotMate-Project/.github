@@ -1,12 +1,18 @@
-## Hi there 👋
+## SpotMate - 지역상권을 알려주는 앱
 
-<!--
+**SpotMate**는 거주자 혹은 여행지 주변의 상권을 잘 모르는 사람들이나 자신이 몰랐던 관심사와 관련된 상권 정보를 알 수있게 하는 앱
 
-**Here are some ideas to get you started:**
+## 기능
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### 회원 관리
+- 가입: OAuth2(소셜) 연동, 이메일과 비밀번호로 가입
+- 로그인: OAuth2(소셜) 연동, 이메일과 비밀번호로 로그인
+- 정보 변경 및 탈퇴
+- 
+### 글 작성
+- CRUD (Create, Read, Update, Delete)
+- Editor: 텍스트 편집 기능
+- Additional: LaTeX, 코드, 이미지 등의 추가 기능
+- 태그
+- 카카오 지도 API 이용
+- 임시 저장

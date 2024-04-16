@@ -8,7 +8,7 @@
 - 가입: OAuth2(소셜) 연동, 이메일과 비밀번호로 가입
 - 로그인: OAuth2(소셜) 연동, 이메일과 비밀번호로 로그인
 - 정보 변경 및 탈퇴
-- 
+
 ### 글 작성
 - CRUD (Create, Read, Update, Delete)
 - Editor: 텍스트 편집 기능

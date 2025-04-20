@@ -22,3 +22,13 @@
 - 공지사항
 - 1:1문의 CRUD
 - 자주묻는 질문
+
+## 시스템 구상도 
+![image](https://github.com/user-attachments/assets/b844a4d4-2592-41ec-aa05-7513d00cac4c)
+
+
+## 첫 화면
+![image](https://github.com/user-attachments/assets/83d28c1e-22a6-467e-aed8-f69830be15ea)
+
+## 로그인 화면
+![image](https://github.com/user-attachments/assets/b206a649-bba5-4390-ad26-29e1fd1bd2af)

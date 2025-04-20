@@ -32,3 +32,13 @@
 
 ## 로그인 화면
 ![image](https://github.com/user-attachments/assets/b206a649-bba5-4390-ad26-29e1fd1bd2af)
+
+## 메인화면 
+![image](https://github.com/user-attachments/assets/4270627b-5b50-4d21-9696-b80b906a896a)
+
+### 메인화면- 관심 카테고리
+![image](https://github.com/user-attachments/assets/e7464e43-5b2f-45ab-9e09-1daf9baf40aa)
+
+![image](https://github.com/user-attachments/assets/89ab5ffd-9373-4706-900a-6498f0668b00)
+
+
